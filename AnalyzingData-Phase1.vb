@@ -2,7 +2,7 @@ Imports System
 Imports System.Data.SqlClient
 Imports System.IO
 
-Public Class Group1
+Public Class AnalyzingData-Phase1
     Dim dr As SqlDataReader
     Dim cmd As New SqlCommand
     Dim nameUser(21) As String
