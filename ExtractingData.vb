@@ -1,6 +1,6 @@
 Imports System.Data.SqlClient
 
-Public Class Form3
+Public Class ExtractingData
     Dim objForm1 As New Form1
     Dim dr As SqlDataReader
     Dim arrays(500) As String
