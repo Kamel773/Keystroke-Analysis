@@ -3,7 +3,7 @@ Imports System.Data.SqlClient
 Imports System.IO
 Imports Excel = Microsoft.Office.Interop.Excel
 
-Public Class Form1
+Public Class CleaningData
     Dim NameFile As String
     Dim fiter_user As String
     Dim dr As SqlDataReader
