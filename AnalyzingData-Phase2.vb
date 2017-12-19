@@ -3,7 +3,7 @@ Imports System.Data.SqlClient
 Imports System.IO
 Imports Excel = Microsoft.Office.Interop.Excel
 
-Public Class output
+Public Class AnalyzingData-Phase2
     Dim dr As SqlDataReader
     Dim cmd As New SqlCommand
     Dim nameUser(21) As String
