@@ -1,6 +1,6 @@
 Imports System.Data.SqlClient
 Imports Excel = Microsoft.Office.Interop.Excel
-Public Class Form2
+Public Class PreprocessingData
     Dim objForm1 As New Form1
     Dim dr As SqlDataReader
     Dim arrays() As String
